@@ -55,18 +55,6 @@ export default class SimulacaoController {
             user_id
          } = request.body;
 
-         console.log(valor_inicial,
-            valor_mensal,
-            meses_investimento,
-            total_investido,
-            total_rendimento_cdb,
-            taxa_percentual_CDI,
-            taxa_DI,
-            total_rendimento_poupanca,
-            taxa_poupanca,
-            taxa_selid,
-            user_id)
-   
          const simuladorService = new SimulacaoService();
          const simulador = await simuladorService.execute({
             valor_inicial,

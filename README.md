@@ -91,8 +91,9 @@ $ docker run --name postgres_container -e POSTGRES_PASSWORD=docker -p 5432:5432 
 $ docker ps
 
 # Acesse o db através de qualquer SGBD com as seguintes credenciais: 
-# usuario = postgres, password = docker, porta = 5432
+# usuario = postgres, password = docker, porta = 5432, host = localhost
 # Crie um novo schemma chamado "testeqi"
+$ CREATE DATABASE testeqi
 
 # PS: Note que para ajudar o .env já está com todas as credenciais de conexão, 
 # não sendo o ideal em um ambiente de produção, mas neste caso resolvi deixar 

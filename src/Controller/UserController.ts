@@ -18,8 +18,6 @@ export default class UserController {
       try {
          const { email, telefone, name } = request.body;
 
-         console.log( email, telefone, name );
-
          const createUserservice = new CreateUserService();
          const user = await createUserservice.execute({ email, telefone, name});
 

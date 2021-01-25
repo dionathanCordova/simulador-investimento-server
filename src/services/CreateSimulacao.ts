@@ -42,8 +42,6 @@ export default class SimulacaoService{
          user_id: findUser?.id
       })
 
-      console.log(data);
-
       await simulacaoRepository.save(createSimulacao);
 
       if (createSimulacao) {
