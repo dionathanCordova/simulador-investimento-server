@@ -9,19 +9,19 @@
 <h1 align="center">App Simulador de Investimentos</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/dionathanCordova/simulador-investimento-web?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/dionathanCordova/simulador-investimento-server?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/dionathanCordova/simulador-investimento-web?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/dionathanCordova/simulador-investimento-server?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dionathanCordova/simulador-investimento-web?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dionathanCordova/simulador-investimento-server?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/dionathanCordova/simulador-investimento-web?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/dionathanCordova/simulador-investimento-server?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/dionathanCordova/simulador-investimento-web?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/dionathanCordova/simulador-investimento-server?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/dionathanCordova/simulador-investimento-web?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/dionathanCordova/simulador-investimento-server?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/dionathanCordova/simulador-investimento-web?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/dionathanCordova/simulador-investimento-server?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Projeto web de um simulador de investimento comparando a taxa de rendimento de um CDB com a poupança
+Projeto server de um simulador de investimento comparando a taxa de rendimento de um CDB com a poupança
 
 ## :sparkles: Features ##
 
